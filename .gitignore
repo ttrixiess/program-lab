@@ -32,3 +32,5 @@
 *.app
 /.vs/*
 *.vsidx
+*.opendb
+/.vs/VSWorkspaceState.json
